@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/Translations">
+        <file>Course_de.ts</file>
+        <file>Course_ru.ts</file>
+        <file>de.qm</file>
+        <file>ru.qm</file>
+        <file>Course_eng.ts</file>
+        <file>eng.qm</file>
+    </qresource>
+    <qresource prefix="/Icons">
+        <file>Hamburger_icon.svg.png</file>
+        <file>Add.png</file>
+        <file>Delete.png</file>
+        <file>Edit.png</file>
+        <file>Open.png</file>
+        <file>panel.png</file>
+        <file>Refresh.png</file>
+        <file>Search.png</file>
+        <file>Selection.png</file>
+        <file>Diagram.png</file>
+        <file>Save.png</file>
+        <file>SaveAs.png</file>
+        <file>Save2.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Diagram.png</file>
+    </qresource>
+</RCC>
